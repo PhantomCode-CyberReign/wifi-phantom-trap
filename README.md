@@ -72,7 +72,9 @@ chmod +x setup.sh
 
 <br>
 
-🔥 Shadow Phantom SIGINT Operator Profile
+## 🔥 Shadow Phantom SIGINT Operator Profile
+
+```bash
 ┌───────────────────────────────────────────────┐
 │ Codename : Phantom-Code-CyberReign            │
 │ Rank     : Level X Threat Operator            │
@@ -84,7 +86,7 @@ chmod +x setup.sh
 │ Division : Shadow Terminal Ops / v1.0.X       │
 │ Uptime   : 99.999% | Target: Global Grid      │
 └───────────────────────────────────────────────┘
-
+```
 
 ---
 
