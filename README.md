@@ -108,7 +108,6 @@ chmod +x setup.sh
 ---
 
 ## 🚀 **Join the Phantom Reign!**
-```bash
 🔥 Stay ahead in the cyber game with exclusive updates, tools, and tips.
 
 📱 **Official WhatsApp Channel:**  
@@ -117,4 +116,3 @@ chmod +x setup.sh
 💬 Connect with fellow hackers, share knowledge, and boost your skills!  
 
 ---
-```
