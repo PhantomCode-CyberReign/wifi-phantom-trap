@@ -103,3 +103,18 @@ chmod +x setup.sh
 🏴 Based in Pakistan | Cybersecurity Research & Development
 
 ---
+
+
+---
+
+## 🚀 **Join the Phantom Reign!**
+```bash
+🔥 Stay ahead in the cyber game with exclusive updates, tools, and tips.
+
+📱 **Official WhatsApp Channel:**  
+[➡️ Join Now](https://whatsapp.com/channel/0029Vb5t0Hu9WtCC1fo3P11Y)  
+
+💬 Connect with fellow hackers, share knowledge, and boost your skills!  
+
+---
+```
